@@ -25,10 +25,6 @@
 			<Zip>95389</Zip>
 		</Address>
 	</NationalPark>
-	
-	
-	
-	
 	<NationalPark Rating="4.8">
 		<Name>Yellowstone</Name>
 		<Phone>307-344-7381</Phone>
@@ -41,8 +37,6 @@
 			<Zip>82190</Zip>
 		</Address>
 	</NationalPark>
-	
-	
 	<NationalPark Rating="4.8">
 		<Name>Zion</Name>
 		<Phone>435-772-3256</Phone>
@@ -55,8 +49,6 @@
 			<Zip>84767</Zip>
 		</Address>
 	</NationalPark>
-	
-	
 	<NationalPark>
 		<Name>Rocky Mountain</Name>
 		<Phone>970-586-1206</Phone>
@@ -68,9 +60,6 @@
 			<Zip>80517</Zip>
 		</Address>
 	</NationalPark>
-	
-	
-	
 	<NationalPark Rating="4.7">
 		<Name>Olympic</Name>
 		<Phone>360-565-3130</Phone>
@@ -105,7 +94,6 @@
 			<Zip>37738</Zip>
 		</Address>
 	</NationalPark>
-	
 	<NationalPark>
 		<Name>Joshua Tree</Name>
 		<Phone>760-367-5500</Phone>
@@ -117,8 +105,6 @@
 			<Zip>92277</Zip>
 		</Address>
 	</NationalPark>
-	
-	
 	<NationalPark>
 		<Name>Everglades</Name>
 		<Phone>305-242-7700</Phone>
@@ -130,8 +116,6 @@
 			<Zip>33034</Zip>
 		</Address>
 	</NationalPark>
-	
-	
 	<NationalPark Rating="4.9">
 		<Name>Glacier</Name>
 		<Phone>406-888-7800</Phone>
@@ -144,6 +128,4 @@
 			<Zip>59936</Zip>
 		</Address>
 	</NationalPark>
-	
-	
 </NationalParks>
